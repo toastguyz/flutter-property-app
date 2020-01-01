@@ -52,7 +52,7 @@ Don't forget to star :star2: the repo if you like our work.:heart::blue_heart::y
 > [Paypal](https://www.paypal.me/toastguyz)
 
 <a href="https://www.buymeacoffee.com/toastguyz">
-  <img width="200" alt="./Screenshots/buymecoffee.png" src="./Screenshots/buymecoffee.png">
+<img width="200" alt="./Screenshots/buymecoffee.png" src="./Screenshots/buymecoffee.png">
 </a>
 
 Thanks for reaching out to us. :100: 
@@ -72,7 +72,8 @@ Thanks for reaching out to us. :100:
         }
     }
     
-    Storage Rules : 
+    Storage Rules :
+     
     service firebase.storage {
       match /b/{bucket}/o {
         match /{allPaths=**} {
